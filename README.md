@@ -1,7 +1,7 @@
 # Ex--3-AWS-Account-setup-and-S3-creation
 
-# Name : SANTHOSH S
-# Reg.no : 212224100052
+# Name : Senthil Raj G
+# Reg.no : 212224100054
 
 # Introduction
 
